@@ -28,7 +28,7 @@ You, of course, own the copyright to your work. Thus, it’s up to you whether y
 
 ### Link
 
-[http://www.add-link-to-your-project-here.com](http://www.add-link-to-your-project-here.com)
+[http://mmp.bmcc.cuny.edu/diego.gutierrez/spring-2018/mmp-100/project-4/](http://mmp.bmcc.cuny.edu/diego.gutierrez/spring-2018/mmp-100/project-4/)
 
 ### Description
 My video was inspired by allan watts my favorite philosopher.  It talks aboutr how important the human race is and how essential we are for the existence of the dream called "LIFE"
